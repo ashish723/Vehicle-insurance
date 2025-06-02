@@ -1,0 +1,5 @@
+2025-06-01 12:29:45,950 This is a debug message. root DEBUG
+2025-06-01 12:29:45,950 This is an info message. root INFO
+2025-06-01 12:29:45,950 This is a warning message. root WARNING
+2025-06-01 12:29:45,950 This is an error message. root ERROR
+2025-06-01 12:29:45,951 This is a critical message. root CRITICAL
